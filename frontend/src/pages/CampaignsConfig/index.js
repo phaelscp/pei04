@@ -189,6 +189,7 @@ const CampaignsConfig = () => {
                   <MenuItem value={10}>10 mensagens</MenuItem>
                   <MenuItem value={15}>15 mensagens</MenuItem>
                   <MenuItem value={20}>20 mensagens</MenuItem>
+                    
                 </Select>
               </FormControl>
             </Grid>
@@ -218,6 +219,7 @@ const CampaignsConfig = () => {
                   <MenuItem value={90}>90 segundos</MenuItem>
                   <MenuItem value={120}>120 segundos</MenuItem>
                   <MenuItem value={150}>150 segundos</MenuItem>
+                    
                 </Select>
               </FormControl>
             </Grid>
