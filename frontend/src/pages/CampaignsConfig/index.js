@@ -185,6 +185,8 @@ const CampaignsConfig = () => {
                   <MenuItem value={0}>Não definido</MenuItem>
                   <MenuItem value={1}>1 mensagem</MenuItem>
                   <MenuItem value={2}>2 mensagens</MenuItem>
+                  <MenuItem value={3}>3 mensagens</MenuItem>
+                  <MenuItem value={4}>4 mensagens</MenuItem>
                   <MenuItem value={5}>5 mensagens</MenuItem>
                   <MenuItem value={10}>10 mensagens</MenuItem>
                   <MenuItem value={15}>15 mensagens</MenuItem>
